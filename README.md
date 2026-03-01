@@ -1,16 +1,16 @@
-# 🎬 Semi-Supervised Sentiment Analysis with Stacking Ensemble
+# Semi-Supervised Sentiment Analysis with Stacking Ensemble
 
 ## Title & Description
 This project explores **semi-supervised learning for multiclass sentiment classification** on a movie review dataset containing **60% unlabeled data**.  
 We design and compare two end-to-end machine learning pipelines to investigate how different pseudo-labeling strategies and feature representations impact model performance.
 
-### 🔍 Problem
+### Problem
 Labeling large-scale text datasets is expensive and time-consuming. This project addresses how to:
 - Effectively leverage **unlabeled data** using semi-supervised learning  
 - Balance **label quantity vs. label quality**  
 - Improve classification performance through **feature engineering and ensemble modeling**
 
-### 🚀 Key Features
+### Key Features
 - Two complete NLP pipelines:
   1. **Bag-of-Words + Naive Bayes pseudo-labeling + SGD classifier**
   2. **TF-IDF + High-confidence pseudo-labeling + Stacking Ensemble**
