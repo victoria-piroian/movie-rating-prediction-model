@@ -119,9 +119,9 @@ Sentiment 2  F1: 1.00
 Sentiment 3  F1: 0.91
 
 ## Author
----
+
 Victoria Piroian
 
-University of Toronto
+Cornell University
 
-Faculty of Applied Science & Engineering, 2025
+Faculty of Operations Research & Information Engineering, 2025
