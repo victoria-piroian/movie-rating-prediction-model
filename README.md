@@ -19,6 +19,11 @@ Labeling large-scale text datasets is expensive and time-consuming. This project
 - Two-level stacking ensemble with multiple base learners
 - Final **XGBoost meta-model achieving 94.4% validation accuracy**
 
+### Clone Repository
+```bash
+git clone https://github.com/your-username/semi-supervised-sentiment.git
+cd semi-supervised-sentiment
+```
 ---
 
 ## Installation
